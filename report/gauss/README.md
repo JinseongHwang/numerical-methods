@@ -3,6 +3,18 @@
 수치해석 02분반<br>
 컴퓨터공학과 1723940 황진성 작성<br>
 
+## 사용하는 라이브러리 및 설치
+
+- numpy
+```text
+pip install numpy
+```
+
+- PyQt5
+```text
+pip install PyQt5
+```
+
 ## 입력 파일
 
 ```text
