@@ -1,3 +1,7 @@
 .idea/
 test.*
 황진성*
+test_data/
+build/
+dist/
+*.spec
